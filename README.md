@@ -175,7 +175,7 @@ html版本报告demo：
 
 ### Fork
 
-从项目主页(https://github.com/wengsy150943/OpenSODAExcitingT2)点击`Fork`，将项目fork到自己的代码仓库。
+从项目主页(https://github.com/wengsy150943/OpenSODAExcitingT2) 点击`Fork`，将项目fork到自己的代码仓库。
 
 ### Clone
 
